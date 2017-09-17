@@ -5,7 +5,7 @@ Created at YHacks '16
 
 -----------------------
 
-##Details
+## Details
 
 1. Resume Critiquer prompts the user to upload their resume as a .txt file
 2. The program searches through the resume and looks for keywords
